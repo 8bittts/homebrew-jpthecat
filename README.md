@@ -4,6 +4,7 @@ Install JP the Cat with Homebrew:
 
 ```sh
 brew tap 8bittts/jpthecat
+brew trust 8bittts/jpthecat
 brew install --cask jpthecat
 ```
 
