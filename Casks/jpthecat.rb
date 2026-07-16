@@ -3,7 +3,7 @@ cask "jpthecat" do
   sha256 "45d4db6a387523f9653cf9de4bde36f14e7a18aa55fd83f2155822af991d8316"
 
   url "https://api.jpthecat.com/storage/v1/object/public/releases/JPtheCat-#{version}.dmg"
-  name "JPtheCat"
+  name "JP the Cat"
   desc "Menu bar AI coding cost meter"
   homepage "https://jpthecat.com/"
 
