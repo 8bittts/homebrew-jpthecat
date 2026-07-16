@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://jpthecat.com/jpthecat-logo.png" alt="JP the Cat logo" width="112" height="112">
 
-# JPtheCat Homebrew Tap
+# JP the Cat Homebrew Tap
 
 ### The cat that counts your agent tokens.
 
