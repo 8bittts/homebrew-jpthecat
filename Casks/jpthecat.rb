@@ -1,6 +1,6 @@
 cask "jpthecat" do
-  version "1.104"
-  sha256 "5b66669df5605062a873b6d2139ffc87bd8befaf677f47a2e2a80d32f144b233"
+  version "1.105"
+  sha256 "1c61ce9250c662022170df3c7a350e71fd77ecc3a2961149810c4945bd0d0af4"
 
   url "https://api.jpthecat.com/storage/v1/object/public/releases/JPtheCat-#{version}.dmg"
   name "JP the Cat"
