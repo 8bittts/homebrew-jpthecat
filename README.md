@@ -26,7 +26,7 @@ Trusting this tap tells Homebrew you intentionally want JP's cask from
 
 ## What You Get
 
-- The current JPtheCat stable DMG from `https://api.jpthecat.com`.
+- The current JPtheCat stable DMG from its GitHub Release on `https://github.com/8bittts/JPtheCat`.
 - Developer ID signing and Apple notarization.
 - Sparkle updates after install.
 - The same app as the primary download at `https://jpthecat.com/download`.
