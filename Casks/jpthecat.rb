@@ -1,6 +1,6 @@
 cask "jpthecat" do
-  version "1.161"
-  sha256 "d79d81df2a84b6c1051a6377cf37fb5dceb21a68dd45eef06dd174c3e0552770"
+  version "1.162"
+  sha256 "abf21175ffb20ae4d7d9cf13397e0c6331f132d4d11b39417b5b4565f87d5632"
 
   url "https://github.com/8bittts/JPtheCat/releases/download/v#{version}/JPtheCat-#{version}.dmg"
   name "JP the Cat"
@@ -8,7 +8,7 @@ cask "jpthecat" do
   homepage "https://github.com/8bittts/JPtheCat"
 
   livecheck do
-    url "https://jpthecat.com/stable/appcast.xml"
+    url "https://raw.githubusercontent.com/8bittts/JPtheCat/main/feed/public/stable/appcast.xml"
     strategy :sparkle, &:short_version
   end
 
